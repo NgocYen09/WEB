@@ -1,0 +1,1133 @@
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\appsettings.Development.json
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\appsettings.json
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\YennieStore.staticwebassets.runtime.json
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\YennieStore.exe
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\YennieStore.deps.json
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\YennieStore.runtimeconfig.json
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\YennieStore.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\YennieStore.pdb
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\mscorlib.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\netstandard.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.AppContext.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Buffers.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Collections.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.ComponentModel.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Configuration.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Console.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Core.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Data.Common.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Data.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Drawing.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Globalization.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.Compression.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Linq.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Memory.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.Http.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.Mail.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.Ping.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.Quic.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.Requests.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.Security.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Numerics.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.ObjectModel.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Reflection.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Claims.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Principal.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Text.Json.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Transactions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.ValueTuple.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Web.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Windows.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Xml.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\refs\WindowsBase.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Azure.Core.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Azure.Identity.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Humanizer.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\MailKit.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.Build.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.JSInterop.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\MimeKit.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\NuGet.Common.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\PagedList.Core.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\PagedList.Core.Mvc.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\System.CodeDom.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\System.Memory.Data.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.csproj.AssemblyReference.cache
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.GeneratedMSBuildEditorConfig.editorconfig
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.AssemblyInfoInputs.cache
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.AssemblyInfo.cs
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.csproj.CoreCompileInputs.cache
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.MvcApplicationPartsAssemblyInfo.cs
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.MvcApplicationPartsAssemblyInfo.cache
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.RazorAssemblyInfo.cache
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.RazorAssemblyInfo.cs
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\staticwebassets.build.json
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\staticwebassets.development.json
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\staticwebassets\msbuild.YennieStore.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\staticwebassets\msbuild.build.YennieStore.props
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.YennieStore.props
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.YennieStore.props
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\staticwebassets.pack.json
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\scopedcss\bundle\YennieStore.styles.css
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\scopedcss\projectbundle\YennieStore.bundle.scp.css
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.csproj.CopyComplete
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\refint\YennieStore.dll
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.pdb
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.genruntimeconfig.cache
+E:\MONHOC\WEB\.NET CORE\YennieStore\YennieStore\obj\Debug\net8.0\ref\YennieStore.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\appsettings.Development.json
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\appsettings.json
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\YennieStore.staticwebassets.runtime.json
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\YennieStore.exe
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\YennieStore.deps.json
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\YennieStore.runtimeconfig.json
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\YennieStore.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\YennieStore.pdb
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\mscorlib.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\netstandard.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.AppContext.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Buffers.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Collections.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.ComponentModel.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Configuration.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Console.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Core.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Data.Common.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Data.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Drawing.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Globalization.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.Compression.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Linq.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Memory.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.Http.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.Mail.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.Ping.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.Quic.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.Requests.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.Security.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Numerics.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.ObjectModel.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Reflection.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Claims.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Principal.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Text.Json.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Transactions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.ValueTuple.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Web.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Windows.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Xml.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\refs\WindowsBase.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Azure.Core.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Azure.Identity.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Humanizer.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\MailKit.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.Build.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\MimeKit.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\NuGet.Common.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\PagedList.Core.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\PagedList.Core.Mvc.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\System.CodeDom.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\System.Memory.Data.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.csproj.AssemblyReference.cache
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.AssemblyInfoInputs.cache
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.AssemblyInfo.cs
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.csproj.CoreCompileInputs.cache
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.MvcApplicationPartsAssemblyInfo.cs
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.MvcApplicationPartsAssemblyInfo.cache
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.RazorAssemblyInfo.cache
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.RazorAssemblyInfo.cs
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\staticwebassets.build.json
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\staticwebassets.development.json
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\staticwebassets\msbuild.YennieStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\staticwebassets\msbuild.build.YennieStore.props
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.YennieStore.props
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.YennieStore.props
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\staticwebassets.pack.json
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\scopedcss\bundle\YennieStore.styles.css
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\scopedcss\projectbundle\YennieStore.bundle.scp.css
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\YennieSt.79E6A8B2.Up2Date
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\refint\YennieStore.dll
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.pdb
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\YennieStore.genruntimeconfig.cache
+D:\WEB\YennieStore\YennieStore\YennieStore\obj\Debug\net8.0\ref\YennieStore.dll
