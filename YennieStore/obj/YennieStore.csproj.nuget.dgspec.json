@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WEB\\.NETMVC-MULTISHOP\\YennieStore\\YennieStore\\YennieStore\\YennieStore.csproj": {}
+    "C:\\Users\\NGOC YEN\\Desktop\\WEB\\YennieStore\\YennieStore.csproj": {}
   },
   "projects": {
-    "D:\\WEB\\.NETMVC-MULTISHOP\\YennieStore\\YennieStore\\YennieStore\\YennieStore.csproj": {
+    "C:\\Users\\NGOC YEN\\Desktop\\WEB\\YennieStore\\YennieStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WEB\\.NETMVC-MULTISHOP\\YennieStore\\YennieStore\\YennieStore\\YennieStore.csproj",
+        "projectUniqueName": "C:\\Users\\NGOC YEN\\Desktop\\WEB\\YennieStore\\YennieStore.csproj",
         "projectName": "YennieStore",
-        "projectPath": "D:\\WEB\\.NETMVC-MULTISHOP\\YennieStore\\YennieStore\\YennieStore\\YennieStore.csproj",
+        "projectPath": "C:\\Users\\NGOC YEN\\Desktop\\WEB\\YennieStore\\YennieStore.csproj",
         "packagesPath": "C:\\Users\\NGOC YEN\\.nuget\\packages\\",
-        "outputPath": "D:\\WEB\\.NETMVC-MULTISHOP\\YennieStore\\YennieStore\\YennieStore\\obj\\",
+        "outputPath": "C:\\Users\\NGOC YEN\\Desktop\\WEB\\YennieStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NGOC YEN\\AppData\\Roaming\\NuGet\\NuGet.Config",

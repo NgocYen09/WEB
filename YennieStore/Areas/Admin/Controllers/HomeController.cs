@@ -7,9 +7,7 @@ using YennieStore.Models;
 namespace YennieStore.Areas.Admin.Controllers
 {
     
-    [Authorize(Roles ="Admin")]
     [Area("Admin")]
-    [Route("admin.html", Name = "AdminIndex")]
 
     public class HomeController : Controller
     {
