@@ -1,0 +1,168 @@
+﻿<header class="main-header_area position-relative">
+    <div class="header-top border-bottom d-none d-md-block">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-4">
+                    <div class="header-top-left">
+                        <ul class="dropdown-wrap text-matterhorn">
+                            <li>
+                                <button class="btn btn-link dropdown-toggle ht-btn" type="button" id="languageButton" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Tiếng Việt
+                                </button>
+                                <ul class="dropdown-menu" aria-labelledby="languageButton">
+                                    <li><a class="dropdown-item" href="#">English</a></li>
+                                    <li><a class="dropdown-item" href="#">日本語</a></li>
+                                </ul>
+                            </li>
+
+                            <li>
+                                <i class="fa fa-mobile" style=" font-size: 20px; display: inline-block; position: relative; transform: translateY(2px); "></i>
+                                Liên hệ nhanh
+                                <a href="tel:0792271865">0792271865</a>
+                            </li>
+                            <li>
+
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="header-top text-matterhorn">
+                        <p class="shipping mb-0">
+                            <i class="fa fa-map-marker" aria-hidden="true"></i>
+                            Địa chỉ:Đường 154 Phường Tân Phú Quận 9 Thành Phố Thủ Đức
+                        </p>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="header-top-right text-matterhorn">
+                        <p class="shipping mb-0">Miễn phí vận chuyển đơn hàng từ <span>500k</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="header-middle py-5">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-12">
+                    <div class="header-middle-wrap">
+                        <a href="/" class="header-logo">
+                            <img src="~/assets/images/logo/YNT.png" alt="logo" width="200">
+                        </a>
+                        <div class="header-search-area d-none d-lg-block">
+                            <div class="input-affix m-v-10">
+                                <form method="get" action="@Url.RouteUrl("ShopProduct")">
+                                    <input type="text" name="searchTerm" value="@ViewBag.SearchTerm" class="form-control" placeholder="Tìm kiếm sản phẩm">
+                                </form>
+                            </div>
+                        </div>
+                        <div class="header-right">
+                            <ul>
+                                <li class="dropdown d-none d-md-block">
+                                    <button class="btn btn-link dropdown-toggle ht-btn p-0" type="button" id="settingButton" data-bs-toggle="dropdown" aria-expanded="false">
+                                        <i class="pe-7s-users"></i>
+                                    </button>
+                                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="settingButton">
+                                        @if (User.Identity.IsAuthenticated)
+                                        {
+                                            <li><a class="dropdown-item" href="/tai-khoan-cua-toi.html">Tài khoản của tôi</a></li>
+                                            <li><a class="dropdown-item" href="dang-xuat.html">Đăng xuất</a></li>
+                                        }
+                                        else
+                                        {
+                                            <li><a class="dropdown-item" href="/dang-ky.html">Đăng ký</a></li>
+                                            <li><a class="dropdown-item" href="/dang-nhap.html">Đăng nhập</a></li>
+                                            <li><a class="dropdown-item" href="/forgotPassword.html">Quên mật khẩu</a></li>
+                                        }
+                                    </ul>
+                                </li>
+                                <li class="d-none d-md-block">
+                                    <a href="#">
+                                        <i class="pe-7s-like"></i>
+                                    </a>
+                                </li>
+                                <li class="d-block d-lg-none">
+                                    <a href="#" class="search-btn toolbar-btn">
+                                        <i class="pe-7s-search"></i>
+                                    </a>
+                                </li>
+                                <li id="numberCart" class="minicart-wrap me-3 me-lg-0">
+                                    @await Component.InvokeAsync("NumberCart")
+                                </li>
+                                <li class="mobile-menu_wrap d-block d-lg-none">
+                                    <a href="#mobileMenu" class="mobile-menu_btn toolbar-btn pl-0">
+                                        <i class="pe-7s-menu"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="main-header header-sticky" data-bg-color="#bac34e">
+        <div class="container">
+            <div class="main-header_nav position-relative">
+                <div class="row align-items-center">
+                    <div class="col-lg-12 d-none d-lg-block">
+                        <div class="main-menu">
+                            <nav class="main-nav">
+                                <ul>
+                                    <li class="drop-holder">
+                                        <a href="/"">Trang chủ</a>
+                                    </li>
+                                    <li>
+                                        <a href="/gioi-thieu.html">Về chúng tôi</a>
+                                    </li>
+                                    <li>
+                                        <a asp-controller="Product" asp-action="Index">Sản phẩm</a>
+                                    </li>
+                                    <li>
+                                        <a asp-controller="Page" asp-action="Index">Page</a>
+                                    </li>
+                                    <li>
+                                        <a href="/Blogs.html">Blog</a>
+                                    </li>
+                                    <li>
+                                        <a href="/lien-he.html">Liên hệ</a>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="offcanvas-minicart_wrapper" id="miniCart">
+        @await Component.InvokeAsync("HeaderCart")
+    </div>
+    <div class="global-overlay"></div>
+</header>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $("#keyword").keyup(function () {
+                var strkeyword = $('#keyword').val();
+                $.ajax({
+                    url: '/Search/FindProduct/',
+                    datatype: "json",
+                    type: "POST",
+                    data: { keyword: strkeyword },
+                    async: true,
+                    success: function (results) {
+                        $("#records_table").html("");
+                        $("#records_table").html(results);
+                    },
+                    error: function (xhr) {
+                        alert('error');
+                    }
+                });
+            });
+        });
+    </script>
+}

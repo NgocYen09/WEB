@@ -1,0 +1,65 @@
+﻿@model YennieStore.Models.Account
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="page-header">
+    <div class="header-sub-title">
+        <nav class="breadcrumb breadcrumb-dash">
+            <a asp-area="Admin" asp-controller="Home" asp-action="Index" class="breadcrumb-item"><i class="anticon anticon-home m-r-5"></i>Trang chủ</a>
+            <a asp-area="Admin" asp-controller="AdminAccounts" asp-action="Index" class="breadcrumb-item">Danh sách Admin</a>
+            <span class="breadcrumb-item active">Chi tiết Admin : @Model.FullName</span>
+        </nav>
+    </div>
+</div>
+
+<div class="card-body">
+    <h2 class="card-title">Chi tiết Admin : @Model.FullName</h2>
+    <div class="table table-striped">
+        <table class="product-info-table m-t-20">
+            <tbody>
+                <tr>
+                    <td>ID:</td>
+                    <td class="text-dark font-weight-semibold">@Model.AccountId</td>
+                </tr>
+                <tr>
+                    <td>Tên Admin:</td>
+                    <td class="text-dark font-weight-semibold">@Model.FullName</td>
+                </tr>
+                <tr>
+                    <td>Email:</td>
+                    <td class="text-dark font-weight-semibold">@Model.Email</td>
+                </tr>
+                <tr>
+                    <td>Số điện thoại:</td>
+                    <td class="text-dark font-weight-semibold">@Model.Phone</td>
+                </tr>
+                <tr>
+                    <td>Ngày tạo:</td>
+                    <td class="text-dark font-weight-semibold">@Model.CreateDate</td>
+                </tr>
+                <tr>
+                    <td>Lần đăng nhập cuối:</td>
+                    <td class="text-dark font-weight-semibold">@Model.LastLogin</td>
+                </tr>
+                <tr>
+                    <td>Mật khẩu:</td>
+                    <td class="text-dark font-weight-semibold">@Model.Password</td>
+                </tr>
+                <tr>
+                    <td>Trạng thái:</td>
+                    <td class="text-dark font-weight-semibold">@Model.Active</td>
+                </tr>
+                <tr>
+                    <td>Quyền truy cập:</td>
+                    <td class="text-dark font-weight-semibold">@Model.RoleId </td>
+                </tr>
+            </tbody>
+        </table>
+        <div>
+            <a style="margin-right: 10px;" class="btn btn-primary" asp-action="Index">Quay lại</a>
+        </div>
+    </div>
+</div>
+

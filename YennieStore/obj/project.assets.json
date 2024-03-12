@@ -8466,11 +8466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WEB\\YennieStore\\YennieStore\\YennieStore\\YennieStore.csproj",
+      "projectUniqueName": "D:\\WEB\\.NETMVC-MULTISHOP\\YennieStore\\YennieStore\\YennieStore\\YennieStore.csproj",
       "projectName": "YennieStore",
-      "projectPath": "D:\\WEB\\YennieStore\\YennieStore\\YennieStore\\YennieStore.csproj",
+      "projectPath": "D:\\WEB\\.NETMVC-MULTISHOP\\YennieStore\\YennieStore\\YennieStore\\YennieStore.csproj",
       "packagesPath": "C:\\Users\\NGOC YEN\\.nuget\\packages\\",
-      "outputPath": "D:\\WEB\\YennieStore\\YennieStore\\YennieStore\\obj\\",
+      "outputPath": "D:\\WEB\\.NETMVC-MULTISHOP\\YennieStore\\YennieStore\\YennieStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NGOC YEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
